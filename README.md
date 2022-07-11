@@ -4,7 +4,7 @@
 - 🤔 Procuro emprego
 - 📫 Contate-me no email: Dp21br@gmail.com / Numero: (21)99785-5271
 
-<div align="center">
+<div>
   <a href="https://github.com/Dp21Br">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DP21Br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dp21Br&layout=compact&langs_count=7&theme=dark"/>
