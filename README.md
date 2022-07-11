@@ -1,9 +1,4 @@
-### Olá!! Me chamo Daniel
-
-- 🌱 Estudando Python
-- 🤔 Procuro emprego
-- 📫 Contate-me no email: Dp21br@gmail.com / Numero: (21)99785-5271
-
+## Oi me chamo Daniel, sou estudante de programação!
 <div>
   <a href="https://github.com/Dp21Br">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DP21Br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
